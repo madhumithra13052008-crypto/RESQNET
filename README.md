@@ -1,4 +1,4 @@
-# RESQNET Frontend (v2, dataset-driven)
+# RESQNET Frontend (version 1)
 
 React 18 + TypeScript + Vite mission-control dashboard for **RESQNET: Resilient Swarm Coordination for Disaster Response**.
 Stack: Tailwind CSS 3, Zustand, Axios, Recharts, Lucide, React Leaflet + Leaflet.
